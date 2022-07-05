@@ -1,2 +1,0 @@
-# tenda
-vuln
